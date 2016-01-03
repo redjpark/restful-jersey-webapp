@@ -18,6 +18,9 @@ Make sure the webapp from the archetype is working correctly.
 * click no like: 'Jersey Resource' on the page
 * Or visit http://localhost:8080/simple-service-webapp/webapi/myresource
 
+You can view WADL by:
+* http://localhost:8080/simple-service-webapp/webapi/application.wadl
+
 # Modify the project to use Jersey 3
 
 ## Add the Application class
