@@ -21,6 +21,9 @@ Make sure the webapp from the archetype is working correctly.
 You can view WADL by:
 * http://localhost:8080/simple-service-webapp/webapi/application.wadl
 
+If you want to getnerate java code from WADL
+* https://wadl.java.net/wadl2java.html
+
 # Modify the project to use Jersey 3
 
 ## Add the Application class
